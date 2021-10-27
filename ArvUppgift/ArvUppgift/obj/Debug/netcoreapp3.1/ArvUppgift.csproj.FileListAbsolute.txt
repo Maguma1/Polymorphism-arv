@@ -1,0 +1,13 @@
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\bin\Debug\netcoreapp3.1\ArvUppgift.exe
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\bin\Debug\netcoreapp3.1\ArvUppgift.deps.json
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\bin\Debug\netcoreapp3.1\ArvUppgift.runtimeconfig.json
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\bin\Debug\netcoreapp3.1\ArvUppgift.runtimeconfig.dev.json
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\bin\Debug\netcoreapp3.1\ArvUppgift.dll
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\bin\Debug\netcoreapp3.1\ArvUppgift.pdb
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\obj\Debug\netcoreapp3.1\ArvUppgift.csprojAssemblyReference.cache
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\obj\Debug\netcoreapp3.1\ArvUppgift.AssemblyInfoInputs.cache
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\obj\Debug\netcoreapp3.1\ArvUppgift.AssemblyInfo.cs
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\obj\Debug\netcoreapp3.1\ArvUppgift.csproj.CoreCompileInputs.cache
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\obj\Debug\netcoreapp3.1\ArvUppgift.dll
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\obj\Debug\netcoreapp3.1\ArvUppgift.pdb
+C:\Users\martin.tibblin\source\repos\ArvUppgift\ArvUppgift\obj\Debug\netcoreapp3.1\ArvUppgift.genruntimeconfig.cache
